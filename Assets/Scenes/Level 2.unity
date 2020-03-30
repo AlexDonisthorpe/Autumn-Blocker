@@ -2989,6 +2989,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Play Space
       objectReference: {fileID: 0}
+    - target: {fileID: 6119201574939538780, guid: 51cc040d801753c44b17a6bd469c55f4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6119201574939538780, guid: 51cc040d801753c44b17a6bd469c55f4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.844
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51cc040d801753c44b17a6bd469c55f4, type: 3}
 --- !u!1001 &1194665483

@@ -3716,6 +3716,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2366317587903956920, guid: 6bee5ba86be935b47a2c00c8d321a1de,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366317587903956920, guid: 6bee5ba86be935b47a2c00c8d321a1de,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2366317587903956920, guid: 6bee5ba86be935b47a2c00c8d321a1de,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2366317587903956923, guid: 6bee5ba86be935b47a2c00c8d321a1de,
         type: 3}
       propertyPath: m_Name
@@ -4016,6 +4031,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Play Space
+      objectReference: {fileID: 0}
+    - target: {fileID: 6119201574939538780, guid: 51cc040d801753c44b17a6bd469c55f4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.846
+      objectReference: {fileID: 0}
+    - target: {fileID: 6119201574939538780, guid: 51cc040d801753c44b17a6bd469c55f4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.748
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51cc040d801753c44b17a6bd469c55f4, type: 3}
