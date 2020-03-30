@@ -8,7 +8,7 @@ This game was designed and built alongside GameDev.tv's Course: [Complete C# Uni
 * Work on scene transitions, colliders & basic physics within the Unity engine
 * Have a game where they player can acquire points and review their high score at the end
 * Implement basic special effects and audio to the game
-* Implement a singleton pattern to maintain consistent audio and player score
+* Implement a singleton pattern to maintain consistent player score
 
 ## Game
 
